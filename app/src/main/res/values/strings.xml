@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music Player App</string>
+    <string name="play">&gt;</string>
+    <string name="pause">||</string>
+    <string name="rewind">&lt;&lt;</string>
+    <string name="forward">&gt;&gt;</string>
+    volume_down
+</resources>
